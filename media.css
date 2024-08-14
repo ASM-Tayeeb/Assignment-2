@@ -196,6 +196,15 @@
     .footer-list{
         padding: 0;
     }
+    .form input,
+    .form select {
+      width: 90%;
+    }
+  
+    .join-contents::after {
+      top: 6%;
+      left: -13%;
+    }
     
     
     }
